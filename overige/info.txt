@@ -1,0 +1,8 @@
+nav = 20%
+
+body = 70%
+    latest = 40%
+    welcome = 20%
+    videos = 40%
+
+footer = 10%
